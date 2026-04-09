@@ -1,0 +1,5 @@
+{
+  "name": "Smart Farming AI",
+  "description": "A cutting-edge AI-powered smart agriculture platform for data-driven farming decisions using IoT, weather, and predictive analytics.",
+  "requestFramePermissions": ["camera"]
+}

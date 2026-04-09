@@ -1,0 +1,21 @@
+{
+  "name": "Smart Farming AI",
+  "short_name": "SmartFarm",
+  "description": "AI-powered smart agriculture system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F7F2",
+  "theme_color": "#2D5A27",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/farm/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/farm/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
